@@ -29,6 +29,7 @@ function App() {
           </menu>
           {tabContent}
         </section>
+        
 >>>>>>> parent of 9a3c42d (Splitting Component by Feature and State)
       </main>
     </>
